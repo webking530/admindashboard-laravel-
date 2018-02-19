@@ -1,0 +1,13 @@
+.topbar .top-navbar .profile-pic {
+  white-space: nowrap;
+}
+
+.topbar .top-navbar .profile-pic img {
+  width: 30px;
+  border-radius: 100%;
+}
+
+.topbar .top-navbar .profile-pic span {
+  font-size: 14px;
+  white-space: nowrap;
+}
